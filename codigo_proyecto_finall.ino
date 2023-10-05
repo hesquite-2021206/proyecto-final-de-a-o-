@@ -11,8 +11,8 @@
  * 
  */
 
-#define pinV A0
-#define pinI A3
+#define Voltaje A0
+#define pcorriente A3
 
 //VaResistenciaiables
 String entrada;
