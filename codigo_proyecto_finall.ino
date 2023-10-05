@@ -1,3 +1,16 @@
+/*
+ * Fundacion Kinal
+ * Centro educativo tecnico laboral Kinal
+ * Electronica
+ * Grado: Quinto
+ * Sección: A
+ * Curso: TALLER ELECTRONICA DIGITAL Y REPARACION DE COMPUTADORAS I
+ * Nombre: henry esquite
+ * CARNE: 2021206
+ * Proyecto: Proyecto Final 
+ * 
+ */
+
 #define pinV A0
 #define pinI A3
 
