@@ -12,7 +12,7 @@
  */
 
 #define Voltaje A0
-#define corriente A3
+#define corriente A1
 
 //VaResistenciaiables
 String entrada;
