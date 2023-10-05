@@ -12,7 +12,7 @@
  */
 
 #define Voltaje A0
-#define pcorriente A3
+#define corriente A3
 
 //VaResistenciaiables
 String entrada;
@@ -28,8 +28,8 @@ void mediciones(int x); //Funcion de medicion y envio de datos
 
 void setup() {
   Serial.begin(9600);
-  pinMode(pinV, INPUT);
-  pinMode(pinI, INPUT);
+  pinMode(voltaje, INPUT);
+  pinMode(corriente, INPUT);
 }
 
 void loop() {
